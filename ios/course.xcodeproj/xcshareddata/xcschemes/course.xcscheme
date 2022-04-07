@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "courseApp.app"
-               BlueprintName = "courseApp"
-               ReferencedContainer = "container:courseApp.xcodeproj">
+               BuildableName = "course.app"
+               BlueprintName = "course"
+               ReferencedContainer = "container:course.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "courseAppTests.xctest"
-               BlueprintName = "courseAppTests"
-               ReferencedContainer = "container:courseApp.xcodeproj">
+               BuildableName = "courseTests.xctest"
+               BlueprintName = "courseTests"
+               ReferencedContainer = "container:course.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "courseApp.app"
-            BlueprintName = "courseApp"
-            ReferencedContainer = "container:courseApp.xcodeproj">
+            BuildableName = "course.app"
+            BlueprintName = "course"
+            ReferencedContainer = "container:course.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "courseApp.app"
-            BlueprintName = "courseApp"
-            ReferencedContainer = "container:courseApp.xcodeproj">
+            BuildableName = "course.app"
+            BlueprintName = "course"
+            ReferencedContainer = "container:course.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
